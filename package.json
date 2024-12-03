@@ -31,7 +31,7 @@
     "express": "^4.19.2",
     "fs": "0.0.1-security",
     "minimist": "^1.2.6",
-    "mongoose": "^5.13.20",
+    "mongoose": "^8.8.3",
     "mysql2": "^3.9.8",
     "ngx-bootstrap": "^6.1.0",
     "rxjs": "^6.6.2",
